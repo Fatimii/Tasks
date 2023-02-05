@@ -20,7 +20,7 @@ To secure a data of company through road map that how they work, how their netwo
       Malware means malicious software. One of the most common cyber threats, malware is software that a cybercriminal or hacker has created to disrupt or damage a legitimate user’s computer.
 - **SQL injection**:
 
-      An SQL (structured language query) injection is a type of cyber-attack used to take control of and steal data from a database. Cybercriminals exploit vulnerabilities in data-driven applications to insert malicious code into a databased via a malicious SQL statement. 
+      An SQL (structured language query) injection is a type of cyber-attack used to take control of and steal data from a database. Cybercriminals exploit vulnerabilities in data-driven applications to insert malicious code into a databased via a malicious SQL statement. It's one of the most prevalent and threatening types of attack because it can potentially be used against any web application or website that uses an SQL-based database (which is most of them). 
 - **Phishing**:
 
       Phishing is when cybercriminals target victims with emails that appear to be from a legitimate company asking for sensitive information. Phishing attacks are often used to dupe people into handing over credit card data and other personal information.
